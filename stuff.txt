@@ -1,0 +1,42 @@
+
+
+{
+  "Name": "2017 RAM 1500",
+  "TowingCapacity": "4,190 to 10,140 lbs",
+  "MPG": "Up to 21 city / 29 highway",
+  "CurbWeight": "4,517 to 5,670 lbs",
+  "Dimensions": "NA"
+}
+
+{
+  "Name": "2017 Chevrolet Silverado 1500",
+  "TowingCapacity": "5,500 to 9,400 lbs",
+  "MPG": "Up to 18 city / 24 highway",
+  "CurbWeight": "4,510 to 5,460 lbs",
+  "Dimensions": "NA"
+}
+
+{
+  "Name": "2017 GMC Sierra 1500",
+  "TowingCapacity": "5,500 to 9,400 lbs",
+  "MPG": "Up to 18 city / 24 highway",
+  "CurbWeight": "4,510 to 5,509 lbs",
+  "Dimensions": "NA"
+}
+
+{
+  "Name": "2017 Toyota Tundra",
+  "TowingCapacity": "6,400 to 10,500 lbs",
+  "MPG": "Up to 15 city / 19 highway",
+  "CurbWeight": "4,920 to 5,670 lbs",
+  "Dimensions": "NA"
+}
+
+{
+  "Name": "2017 Nissan Titan",
+  "TowingCapacity": "9,040 to 9,740 lbs",
+  "MPG": "Up to 15 city / 21 highway",
+  "CurbWeight": "NA",
+  "Dimensions": "NA"
+}
+
