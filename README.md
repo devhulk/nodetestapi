@@ -1,8 +1,8 @@
 # README #
 
-### Apigee Training Node.js API ###
+### Training Node.js API ###
 
-* Basic Node API for testing.
+* Bare Bones Node API for testing.
 
 ### How do I get set up? ###
 
